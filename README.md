@@ -6,5 +6,5 @@
  
 没事瞎写点bug，主要都是处理数据时自用的自动化脚本。 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-luoyun)](https://github.com/anuraghazra/github-readme-stats)
-[![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny-luoyun)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-luoyun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-luoyun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
