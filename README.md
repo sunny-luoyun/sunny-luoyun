@@ -1,4 +1,4 @@
-## Hi there 👋
+## 简陋的主页懒得装修了，应该也没人会看 🤔
 
 <!--
 **sunny-luoyun/sunny-luoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
