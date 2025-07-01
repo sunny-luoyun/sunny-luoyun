@@ -1,11 +1,37 @@
-### Hi there 👋
-### sunny-luoyun
+<div align="center">
+  
+# 🌟 Hi Luoyun! 👋
+### A Code Farmer.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sunny-luoyun)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dm3375536@gmail.com)
+<p>
+  <a href="mailto:qinl0229@foxmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://github.com/sunny-luoyun"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
+</p>
 
-没事瞎写点bug，主要都是处理数据时自用的脚本。
+![Profile Views](https://komarev.com/ghpvc/?username=sunny-luoyun&color=blueviolet)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-luoyun)](https://github.com/anuraghazra/github-readme-stats)
+## 🎯 About Me 
+
+> "Sunny Today"
+
+- 🔭 Enjoy learning new knowledge！
+- 👯 没事瞎写点bug，主要都是处理数据时自用的脚本.
+
+## 🎮 成分复杂
+![](https://img.shields.io/badge/爱好-二次元-red)
+![](https://img.shields.io/badge/原神-启动-white)
+
+## 💻 OS
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 📊 GitHub | Statistics
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sunny-luoyun&theme=dracula)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-luoyun&layout=compact&langs_count=8&theme=radical"/>
+</div>
