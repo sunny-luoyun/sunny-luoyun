@@ -21,7 +21,7 @@
 
 ## 🎮 成分复杂
 [![爱好-二次元](https://img.shields.io/badge/爱好-二次元-red)](https://space.bilibili.com/286225014)
-[![原神-启动](https://img.shields.io/badge/原神-启动-white)](https://genshin.mihoyo.com/)
+[![原神-启动](https://img.shields.io/badge/原神-启动-white)](https://ys.mihoyo.com/)
 
 ## 💻 OS
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
