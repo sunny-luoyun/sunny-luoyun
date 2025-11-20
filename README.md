@@ -21,7 +21,7 @@
 
 ## 🎮 成分复杂
 ![](https://img.shields.io/badge/爱好-二次元-red)
-![](https://img.shields.io/badge/原神-启动-white)
+![](https://img.shields.io/badge/原神-启动-white?title=是一款前面忘了，中间忘了，后面也忘了的游戏，总之点击即可下载)
 
 ## 💻 OS
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
