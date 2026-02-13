@@ -27,11 +27,3 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📊 GitHub | Statistics
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=sunny-luoyun&theme=dracula)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-luoyun&layout=compact&langs_count=8&theme=radical"/>
-</div>
