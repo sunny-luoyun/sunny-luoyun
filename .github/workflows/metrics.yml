@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # 每天北京时间早 8 点自动更新
   schedule: [{cron: "0 0 * * *"}]
-  # 支持手动触发更新
   workflow_dispatch:
-  # 每次你推送到主分支时也更新
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -15,16 +12,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 这里的 TOKEN 名字必须和你之前在 Settings 里设置的一致
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # 核心设置：只开启语言统计插件
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex # 忽略掉这些非核心编程语言
+          
+          # 不设置 plugin_languages_ignored，统计所有语言
+          # 包括 HTML, CSS, Markdown, JSON, 配置文件等全部语言
+          
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes # 深度分析（更准确）
+          plugin_languages_indepth: yes
           
-          # 存储位置（生成到仓库根目录）
+          # 统计你的所有仓库（包括私有库）
+          plugin_languages_indepth_custom: sunny-luoyun/*
+          
           filename: github-metrics.svg
