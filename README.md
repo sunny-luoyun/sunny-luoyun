@@ -8,7 +8,6 @@
   <a href="https://github.com/sunny-luoyun"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sunny-luoyun&color=blueviolet)
 
 </div>
 
