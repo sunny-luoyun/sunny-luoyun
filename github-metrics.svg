@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 1.19mb of code in 431 edited files across 150 commits</small>
+                <small>estimation from 1.19mb of code in 433 edited files across 151 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.0154667648684" height="8" fill="#e16737"/>
-                    <rect mask="url(#languages-bar)" x="386.0154667648684" y="0" width="66.05873688086909" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.07420364573744" y="0" width="7.524396980298288" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.5986006260357" y="0" width="0.40139937396427916" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.26898298661666" height="8" fill="#e16737"/>
+                    <rect mask="url(#languages-bar)" x="386.26898298661666" y="0" width="65.8323792807707" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.10136226738734" y="0" width="7.4986137981929515" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.5999760655803" y="0" width="0.40002393441969003" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                                 MATLAB
                             </div>
                             <small>
-                                <div>83.92%</div>
+                                <div>83.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,7 +48,7 @@
                                 Wolfram Language
                             </div>
                             <small>
-                                <div>1.64%</div>
+                                <div>1.63%</div>
                             </small>
                         </div>
                     </section>
@@ -61,7 +61,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>14.36%</div>
+                                <div>14.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
