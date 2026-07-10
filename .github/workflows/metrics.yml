@@ -19,7 +19,7 @@ jobs:
           plugin_languages: yes
           
           # 忽略不需要的语言
-          plugin_languages_ignored: limbo, wolfram
+          plugin_languages_ignored: limbo, wolfram language
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
